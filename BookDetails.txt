@@ -1,0 +1,13 @@
+mysql> select * from Book;
++--------------+--------------------+----------------+----------+
+| SerialNumber | BookName           | BookAuthor     | BookCost |
++--------------+--------------------+----------------+----------+
+|        12345 | History of Maths   | R D Sharma     |      500 |
+|        54321 | History of Science | Charles Darwin |      750 |
+|        67890 | History of Social  | Mahatma Gandhi |     1000 |
+|         9876 | History of English | Shakespeare    |     1200 |
+|        90807 | History of Tamil   | Thiruvalluvar  |     5000 |
++--------------+--------------------+----------------+----------+
+5 rows in set (0.00 sec)
+
+mysql>
